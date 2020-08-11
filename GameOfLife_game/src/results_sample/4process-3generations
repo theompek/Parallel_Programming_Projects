@@ -1,0 +1,63 @@
+==== Run starts now ======= Mon Dec 26 23:41:01 EET 2016
+Size 20000x80000 with propability: 50.0%
+Size 20000x80000 with propability: 50.0%
+Size 20000x80000 with propability: 50.0%
+Size 20000x80000 with propability: 50.0%
+Board generated
+I am process ID:3-->Time to compute the genarate code: 2.355567s
+Board generated
+I am process ID:2-->Time to compute the genarate code: 2.391949s
+Board generated
+I am process ID:0-->Time to compute the genarate code: 2.412338s
+Board generated
+I am process ID:1-->Time to compute the genarate code: 2.457662s
+<===========================================>
+I am process ID:0-->Time to compute the GameOfLife code: 50.423429s
+I am process ID:2-->Time to compute the GameOfLife code: 50.423337s
+I am process ID:1-->Time to compute the GameOfLife code: 50.423811s
+Game finished after 3 generations.
+I am process ID:3-->Time to compute the GameOfLife code: 50.423777s
+==== Run ends now ======= Mon Dec 26 23:41:54 EET 2016
+
+==== Run starts now ======= Mon Dec 26 23:44:23 EET 2016
+Size 20000x80000 with propability: 50.0%
+Size 20000x80000 with propability: 50.0%
+Size 20000x80000 with propability: 50.0%
+Size 20000x80000 with propability: 50.0%
+Board generated
+I am process ID:0-->Time to compute the genarate code: 2.350364s
+Board generated
+I am process ID:3-->Time to compute the genarate code: 2.434494s
+Board generated
+I am process ID:1-->Time to compute the genarate code: 2.444500s
+Board generated
+I am process ID:2-->Time to compute the genarate code: 2.454866s
+<===========================================>
+I am process ID:0-->Time to compute the GameOfLife code: 50.413669s
+I am process ID:2-->Time to compute the GameOfLife code: 50.413665s
+I am process ID:1-->Time to compute the GameOfLife code: 50.413387s
+I am process ID:3-->Time to compute the GameOfLife code: 50.413351s
+Game finished after 3 generations.
+==== Run ends now ======= Mon Dec 26 23:45:16 EET 2016
+
+==== Run starts now ======= Mon Dec 26 23:47:52 EET 2016
+Size 20000x80000 with propability: 50.0%
+Size 20000x80000 with propability: 50.0%
+Size 20000x80000 with propability: 50.0%
+Size 20000x80000 with propability: 50.0%
+Board generated
+I am process ID:3-->Time to compute the genarate code: 2.402827s
+Board generated
+I am process ID:1-->Time to compute the genarate code: 2.425783s
+Board generated
+I am process ID:2-->Time to compute the genarate code: 2.450113s
+Board generated
+I am process ID:0-->Time to compute the genarate code: 2.461516s
+<===========================================>
+I am process ID:0-->Time to compute the GameOfLife code: 50.474068s
+I am process ID:2-->Time to compute the GameOfLife code: 50.473813s
+I am process ID:3-->Time to compute the GameOfLife code: 50.473658s
+I am process ID:1-->Time to compute the GameOfLife code: 50.473718s
+Game finished after 3 generations.
+==== Run ends now ======= Mon Dec 26 23:48:45 EET 2016
+

@@ -1,0 +1,15 @@
+#PBS -N m
+#PBS -q pdlab
+#PBS -j oe
+#PBS -l nodes=4:ppn=8
+
+module load mpi/mpich3-x86_64
+
+cd $PBS_O_WORKDIR/
+
+
+echo "==== Run starts now ======= `date` "
+
+mpirun -np 4 -ppn 1 ./game-of-life 80000 0.5 3 0
+
+echo "==== Run ends now ======= `date` "

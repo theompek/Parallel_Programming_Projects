@@ -1,0 +1,29 @@
+Μετρηση 1
+==== Run starts now ======= Mon Dec 26 17:40:45 EET 2016
+Size 40000x40000 with propability: 50.0%
+Board generated
+I am process ID:0-->Time to compute the genarate code: 2.456779s
+<===========================================>
+I am process ID:0-->Time to compute the GameOfLife code: 50.561851s
+Game finished after 3 generations.
+==== Run ends now ======= Mon Dec 26 17:41:38 EET 2016
+
+Μετρηση 2
+==== Run starts now ======= Mon Dec 26 17:43:58 EET 2016
+Size 40000x40000 with propability: 50.0%
+Board generated
+I am process ID:0-->Time to compute the genarate code: 2.404103s
+<===========================================>
+I am process ID:0-->Time to compute the GameOfLife code: 50.534885s
+Game finished after 3 generations.
+==== Run ends now ======= Mon Dec 26 17:44:51 EET 2016
+
+Μετρηση 3
+==== Run starts now ======= Mon Dec 26 17:50:09 EET 2016
+Size 40000x40000 with propability: 50.0%
+Board generated
+I am process ID:0-->Time to compute the genarate code: 2.484668s
+<===========================================>
+I am process ID:0-->Time to compute the GameOfLife code: 50.530996s
+Game finished after 3 generations.
+==== Run ends now ======= Mon Dec 26 17:51:02 EET 2016
